@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ferhatemrekoc
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning patika of Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning patika of ..
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me , ferhatemre70@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ferhat Emre Koc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Mechanical+Engineering;Junior+Programmer;Engineer+building+up+himself+in+Software;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated+from+Mechanical+Engineering;Engineer+building+up+himself+in+Software;Junior+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
@@ -11,9 +11,9 @@
 - 🤓 Always learning `new things`.
 
 
-## 🛠️ My Skills
+## 🛠️ Skills
 
-### 👉 Programming languages
+### 📚 Programming Languages
 
 <p align="center"> 
   &emsp;
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-### 👉 Databases
+### ⚡ Databases
 
 <p align="center"> 
   &emsp;
@@ -39,7 +39,21 @@
   </a>
 </p>
 
-### 👉 Frameworks & Libraries
+### 👩‍💻 IDEs
+<p align="center"> 
+  &emsp;
+  <a href="https://colab.research.google.com" target="_blank"> 
+    <img alt="COLAB" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+  </a>
+  &emsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  </a>
+</p>
+	
+  
+
+### 🚀 Frameworks & Libraries
 
 <p align="center"> 
   &emsp; 
@@ -71,13 +85,26 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:ferhatemre70@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ferhatemrekoc"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0905313043440"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/ferhatemrekoc768/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/ferhatisovic/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+### 📚 Courses
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://verified.cv/en/verify/21860907800868?ref=email" target="_blank"> 
+   <img alt="Python" src="https://img.shields.io/badge/Python WtechPlatform-316192?style=for-the-badge&logo=Python&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://www.btkakademi.gov.tr" target="_blank"> 
+   <img alt="Python" src="https://img.shields.io/badge/Python and TensorFlow Data Science-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a> 
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:ferhatemre70@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/ferhatemrekoc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0905313043440"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/ferhatemrekoc768/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/ferhatisovic/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
